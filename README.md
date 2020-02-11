@@ -5,6 +5,8 @@
 ## Содержание
 - [**Базы данных**](#Базы-данных-)
 - [**PHP**](#PHP-)
+- [**Шаблоны и паттерны**](#Шаблоны-и-паттерны-)
+- [**Вне категории**](#Вне-категории-)
 
 ---
 
@@ -24,10 +26,28 @@
     -  [OPCache](https://habr.com/ru/company/mailru/blog/310054/)
     -  [Потоки выполнения и PHP](https://habr.com/ru/company/mailru/blog/329446/)
     -  [Асинхронный PHP](https://habr.com/ru/company/oleg-bunin/blog/487258/)
+- Тестирование
+    - [Юнит-тестирование в PHP](https://habr.com/ru/post/56289/)
+    - [PHPUnit](https://phpunit.readthedocs.io/ru/latest/writing-tests-for-phpunit.html)
+- Разное
+    - [Контрактное программирование в PHP](https://habr.com/ru/post/214371/)
+    - [Архитектура приложений на PHP](https://habr.com/ru/post/327746/)
+    - [Сравнение серверов PHP](https://habr.com/ru/post/431818/)
+    - [Работа с XML в PHP](https://habr.com/ru/post/330240/)
 ---
 ## Базы данных [&uarr;](#Содержание)
-- [ ] [Как устроены базы данных](https://habr.com/ru/company/oleg-bunin/blog/358984/)
-- [ ] [Как работает реляционная БД](https://habr.com/ru/company/mailru/blog/266811/)
-- [ ] [Механизм работы SQL-команд](https://habr.com/ru/post/208400/)
+- [Как устроены базы данных](https://habr.com/ru/company/oleg-bunin/blog/358984/)
+- [Как работает реляционная БД](https://habr.com/ru/company/mailru/blog/266811/)
+- [Механизм работы SQL-команд](https://habr.com/ru/post/208400/)
 
 ---
+
+## Шаблоны и паттерны [&uarr;](#Содержание)
+- [Шаблоны проектирования с человеческим лицом](https://habr.com/ru/company/mailru/blog/325492/)
+- [DesignPatternsPHP](https://designpatternsphp.readthedocs.io/ru/latest/README.html)
+- [Рефакторинг.Гуру](https://refactoring.guru/ru)
+
+## Вне категории [&uarr;](#Содержание)
+- [Understanding Dependencies](https://habr.com/ru/post/349836/)
+- [Чистый код на PHP](https://habr.com/ru/company/mailru/blog/336788/)
+- [PHP RightWay](http://getjump.github.io/ru-php-the-right-way/)
