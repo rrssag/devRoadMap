@@ -29,6 +29,8 @@
     -  [Асинхронный PHP](https://habr.com/ru/company/oleg-bunin/blog/487258/)
     -  [Виртуальная машина PHP](https://habr.com/ru/company/badoo/blog/327068/)
     -  [Static в анонимных функциях](https://habr.com/ru/post/561550/)
+    -  [PHP Internals Book[RUS]](https://romka.gitbooks.io/php-internals-book-ru/content/index.html)
+    -  [Генераторы](https://habr.com/ru/post/189796/)
 - Тестирование
     - [Юнит-тестирование в PHP](https://habr.com/ru/post/56289/)
     - [PHPUnit](https://phpunit.readthedocs.io/ru/latest/writing-tests-for-phpunit.html)
@@ -69,3 +71,4 @@
 - [PHP RightWay](http://getjump.github.io/ru-php-the-right-way/)
 - [Теория программирования: пакетные принципы и метрики](https://habr.com/ru/company/oleg-bunin/blog/505170/)
 - [Dependency Injection в мире Software Engineering](https://habr.com/ru/company/avito/blog/556924/)
+- [Способы исполнения программ](https://habr.com/ru/post/318374/)
